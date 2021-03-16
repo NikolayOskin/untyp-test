@@ -1,4 +1,4 @@
-module untypical
+module github.com/nikolayoskin/untyp-test
 
 go 1.14
 
