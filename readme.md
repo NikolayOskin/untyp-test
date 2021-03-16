@@ -12,7 +12,7 @@
 
 ### Как запустить
 
-```mkdir untyp-test && cd untyp-test && git clone github.com/nikolayoskin/untyp-test .```
+```mkdir untyp-test && cd untyp-test && git clone https://github.com/nikolayoskin/untyp-test .```
 
 ```make build && make port=8095 start```
 
